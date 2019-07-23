@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Learn JavaScript",
+      "body": "learn javascript because this is popular language since 1997.",
+      "author": "Fahad",
+      "thumbnail": "http://localhost:3000/thumb-1.png"
+    },
+    {
+      "id": 2,
+      "title": "Learn React",
+      "body": "React is awesome framework for front end developer created by facebook.com",
+      "author": "Arsalan",
+      "thumbnail": "http://localhost:3000/thumb-2.png"
+    },
+    {
+      "id": 3,
+      "title": "Learn HTML/CSS",
+      "body": "HTML/CSS are foundation technologies for web browser to build web sites",
+      "author": "Sheraz",
+      "thumbnail": "http://localhost:3000/thumb-3.png"
+    },
+    {
+      "id": 4,
+      "title": "Learn JavaScript",
+      "body": "learn javascript because this is popular language since 1997.",
+      "author": "Fahad",
+      "thumbnail": "http://localhost:3000/thumb-1.png"
+    },
+    {
+      "id": 5,
+      "title": "Learn React",
+      "body": "React is awesome framework for front end developer created by facebook.com",
+      "author": "Arsalan",
+      "thumbnail": "http://localhost:3000/thumb-2.png"
+    },
+    {
+      "id": 6,
+      "title": "Learn HTML/CSS",
+      "body": "HTML/CSS are foundation technologies for web browser to build web sites",
+      "author": "Sheraz",
+      "thumbnail": "http://localhost:3000/thumb-3.png"
+    }
+  ],
+
+  "comments": [
+    {
+      "id": 1,
+      "comment": "HTML/CSS are foundation technologies for web browser to build web sites",
+      "name": "Sheraz"
+    },
+    {
+      "id": 2,
+      "comment": "learn javascript because this is popular language since 1997.",
+      "name": "fahad"
+    },
+    {
+      "id": 3,
+      "comment": "React is awesome framework for front end developer created by facebook.com",
+      "name": "arsalan"
+    }
+  ]
+}

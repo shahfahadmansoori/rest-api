@@ -1,0 +1,71 @@
+@import url("../../node_modules/bootstrap/dist/css/bootstrap.css");
+@import url("https://fonts.googleapis.com/css?family=DM+Serif+Display&display=swap");
+
+#header {
+  margin-top: 50px;
+  border-bottom: 5px solid #079992;
+  padding-bottom: 15px;
+}
+.sub-logo {
+  font-size: 20px;
+  font-family: "DM Serif Display", serif;
+  color: #38ada9;
+}
+.logo {
+  font-size: 30px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-family: "DM Serif Display", serif;
+  color: #079992;
+}
+.nav li {
+  padding: 30px;
+}
+.nav-item a:hover {
+  color: #079992;
+}
+.navbar {
+  background-color: #82ccdd;
+}
+.section-title {
+  padding-bottom: 20px;
+  border-bottom: 4px solid #576574;
+}
+.carousel-inner img {
+  height: 500px;
+  object-fit: cover;
+  background: no-repeat center center scroll;
+  background-size: cover;
+}
+.active {
+  color: #576574;
+}
+
+.about-sec h3 {
+  text-align: center;
+  margin-top: 50px;
+  border-bottom: 5px solid #576574;
+  padding-bottom: 15px;
+  font-size: 30px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-family: "DM Serif Display", serif;
+  font-weight: bolder;
+}
+.about-sec p {
+  text-align: center;
+  font-size: 15px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-family: "DM Serif Display", serif;
+  color: black;
+}
+
+#footer p {
+  background-color: #079992;
+  padding: 20px;
+  font-size: 20px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  font-family: "DM Serif Display", serif;
+}
